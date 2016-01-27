@@ -1,2 +1,2 @@
 # deep
-REpository for googles deep learning course
+Repository for googles deep learning course
